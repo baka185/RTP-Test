@@ -1,0 +1,8 @@
+name: RTPPlugin
+version: 1.0
+main: me.rtp.RTPPlugin
+api-version: 1.20
+commands:
+  rtp:
+    description: Random teleport
+    usage: /rtp
